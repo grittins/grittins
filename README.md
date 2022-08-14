@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rez @grittins
-- 👀 I’m interested in Big Data, Machine Learning, Crypto space, Web3
-- 🌱 I’m currently learning Data Engineering at University of Toronto  
-- 💞️ I’m looking to collaborate on projects related to stocks, Web3, crypto
+- 👋 Hi, This is Rez @grittins
+- 👀 I’m interested in Software, Big Data, Machine Learning, Crypto space, Web3
+- 🌱 I’m currently completing Data Engineering from University of Toronto  
+- 💞️ I’m looking for full-time/part-time opportunities on projects related to software, Web3, stocks, crypto
 - 📫 How to reach me? grittins1@gmail.com
 
 <!---

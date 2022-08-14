@@ -1,4 +1,4 @@
-- 👋 Hi, This is Rez @grittins
+- 👋 Hi, Rezwan here @grittins
 - 👀 I’m interested in Software, Big Data, Machine Learning, Crypto space, Web3
 - 🌱 I’m currently completing Data Engineering from University of Toronto  
 - 💞️ I’m looking for full-time/part-time opportunities on projects related to software, Web3, stocks, crypto

@@ -4,7 +4,8 @@
 - 💞️ I’m looking for full-time/part-time opportunities on projects related to software, Web3, stocks, crypto
 - 📫 How to reach me? grittins1@gmail.com
 
-- The profile photo is created using DALL-E 2 -> A new AI system that can create realistic images and art from a description in natural language.
+
+The profile photo is created using DALL-E 2 -> A new AI system that can create realistic images and art from a description in natural language.
 
 
 

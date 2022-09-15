@@ -5,7 +5,7 @@
 - 📫 How to reach me? grittins1@gmail.com
 
 
-The profile avatar is created using DALL-E 2 -> A new AI system that can create realistic images and art from a description in natural language.
+The profile avatar is created using DALL-E 2 -> An AI system that can create realistic images and art from a description in natural language.
 
 
 

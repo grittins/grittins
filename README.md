@@ -1,3 +1,5 @@
+[Click here for Resume](https://grittins.github.io/Resume/)
+
 - 👋 Hi, Rezwan here @grittins
 - 🌱 I recently completed a Data Analysis program from University of Toronto  
 - 👀 I’m interested in Software Development, Big Data, Machine Learning, Crypto space, Web3

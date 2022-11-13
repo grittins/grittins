@@ -1,7 +1,8 @@
 [Click here for Resume](https://grittins.github.io/Resume/)
 
 - 👋 Hi, Rezwan here @grittins
-- 🌱 I recently completed a Data Analytics certificate from University of Toronto; I have a Bachelor's in Business Economics from University of Alberta
+- 💻 I recently completed a Data Analytics certificate from University of Toronto
+- 📚 I have a Bachelor's in Business Economics from University of Alberta
 - 👀 I’m interested in Software Development, Backend Development, Crypto space, Web3
 - 🔎 I’m looking for full-time/contract opportunities
 - 📫 How to reach me? grittins1@gmail.com

@@ -1,14 +1,13 @@
 [Click here for Resume](https://grittins.github.io/Resume/)
 
 - 👋 Hi, Rezwan here @grittins
-- 🌱 I recently completed a Data Analysis program from University of Toronto  
-- 👀 I’m interested in Software Development, Big Data, Machine Learning, Crypto space, Web3
-- 🔎 I’m looking for full-time/part-time opportunities on projects related to Data, Stocks, Web3, Crypto
+- 🌱 I recently completed a Data Analytics certificate from University of Toronto with Bachelor's in Business Economics from University of Alberta
+- 👀 I’m interested in Software Development, Backend Development, Crypto space, Web3
+- 🔎 I’m looking for full-time/contract opportunities
 - 📫 How to reach me? grittins1@gmail.com
 
 
 The profile avatar is created using [DALL-E 2](https://openai.com/dall-e-2/) -> An AI system that can create realistic images and art from a description in natural language.
-
 
 
 <!---

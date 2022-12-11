@@ -3,7 +3,7 @@
 - 👋 Hi, Rezwan here @grittins
 - 💻 Recently completed a Data Analytics certificate from University of Toronto
 - 📚 Got my Bachelor's in Business Economics from University of Alberta
-- 👀 Interested in Data, Software Development, Backend, Crypto space, Web3
+- 👀 Interested in Data, Sales, Backend, Crypto space, Web3
 - 🔎 Looking for full-time/contract opportunities
 - 📫 How to reach me? grittins1@gmail.com
 

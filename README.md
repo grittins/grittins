@@ -9,7 +9,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rezwanferdous10/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezwanferdous10/) 
 
 
 The profile avatar is created using [DALL-E 2](https://openai.com/dall-e-2/) -> An AI system that can create realistic images and art from a description in natural language.

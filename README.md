@@ -5,7 +5,7 @@
 - 📚 Bachelor's in Business Economics from University of Alberta
 - 👀 Interested in Data, Sales, Backend, Crypto space, Web3
 - 🔎 Looking for full-time/contract opportunities
-- 📫 How to reach me? grittins1@gmail.com
+- 📫 How to reach me? rezoneferdous@gmail.com OR grittins1@gmail.com
 
 <br/>
 

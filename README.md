@@ -1,10 +1,9 @@
 
 
 - 👋 Hi, Rezwan here @grittins
-- 💻 Recently completed a Data Analytics certificate from University of Toronto
-- 📚 Bachelor's in Business Economics from University of Alberta
+- 💻 Currently working for Uber Technologies, Inc as a Management Specialist
+- 📚 Bachelor's in Business Economics from University of Alberta & Data Analytics certification from University of Toronto
 - 👀 Interested in Data, Analytics & Insights, Sales and Consultation, Backend, Crypto space, Web3
-- 🔎 Looking for full-time/contract opportunities
 - 📫 How to reach me? rezoneferdous@gmail.com OR grittins1@gmail.com
 
 <br/>

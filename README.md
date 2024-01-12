@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezwanferdous10/) 
 
 
-The profile avatar is created using [DALL-E 2](https://openai.com/dall-e-2/) -> An AI system that can create realistic images and art from a description in natural language.
+The profile avatar is created using [DALL-E 2](https://openai.com/dall-e-2/) 
 
 <!---
 grittins/grittins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 - 👋 Hi, Rezwan here @grittins
 - 💻 Currently working for Uber Technologies, Inc as a Management Specialist
 - 📚 Bachelor's in Business Economics from University of Alberta & Data Analytics certification from University of Toronto
-- 👀 Interested in Data, Analytics & Insights, Sales and Consultation, Backend, Crypto space, Web3
+- 👀 Interested in Data, Analytics & Insights, Sales and Consultation, Crypto, AI
 - 📫 How to reach me? rezoneferdous@gmail.com OR grittins1@gmail.com
 
 <br/>
